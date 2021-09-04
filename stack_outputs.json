@@ -1,0 +1,7 @@
+{
+  "SageMakerTrainingInstanceType": "ml.c5.4xlarge",
+  "SageMakerInferenceInstanceType": "ml.m5.xlarge",
+  "SolutionName": "aws-fleet-predictive-maintenance/1.2.6",
+  "SageMakerNotebookInstanceType": "ml.t2.medium",
+  "SolutionPrefix": "sagemaker-soln-fpm-js-5rr5p7",
+}
